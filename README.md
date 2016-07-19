@@ -1,3 +1,5 @@
+从gulp-jingoal-thumbnail代码库Fork而来，由Jingoal成都团队维护
+
 ## 安装gm工具库
 ### linux安装
 ```
