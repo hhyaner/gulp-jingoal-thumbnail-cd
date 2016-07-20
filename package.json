@@ -1,11 +1,11 @@
 {
-  "name": "gulp-jingoal-thumbnail",
+  "name": "gulp-jingoal-thumbnail-cd",
   "version": "1.0.3",
   "description": "自动生成1倍图-今目标雪碧图工具",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:jingoal-chengdu/gulp-jingoal-thumbnail.git"
+    "url": "git@github.com:jingoal-chengdu/gulp-jingoal-thumbnail-cd.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

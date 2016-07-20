@@ -16,7 +16,7 @@ make && make install
 
 ## gulp 配置实例
 ```
-var thumbnail = require('gulp-jingoal-thumbnail');
+var thumbnail = require('gulp-jingoal-thumbnail-cd');
 /*缩略图*/
 gulp.task('thumbnailtask', function () {
     return gulp.src(appPath + '/dest/imgs/2x/*.png')
